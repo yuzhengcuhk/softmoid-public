@@ -1,5 +1,5 @@
 # Secure Softmax and Sigmoid
-The branch of `sec_softmoid` contains Python and C++ implementations of the paper 
+The mirror branch of `sec_softmoid` contains Python and C++ implementations of the paper 
 
 **Secure Softmax/Sigmoid for Machine-learning Computation. (ACSAC'23)**
 
