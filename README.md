@@ -1,3 +1,5 @@
+**:exclamation::exclamation::exclamation:NOTE: This is just a mirror repository of [https://github.com/alipay/Antchain-MPC/tree/sec_softmoid](https://github.com/alipay/Antchain-MPC/tree/sec_softmoid).:exclamation::exclamation::exclamation:**
+
 # Secure Softmax and Sigmoid
 The mirror branch of `sec_softmoid` contains Python and C++ implementations of the paper 
 
